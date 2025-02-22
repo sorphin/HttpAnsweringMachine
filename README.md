@@ -1,3 +1,6 @@
+
+Abandoned in favour of TheProtocolMaster, easier and stronger: https://github.com/kendarorg/the-protocol-master
+
 ## Motivation
 
 How to test interdependent applications when you have no control over them. 
